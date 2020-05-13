@@ -1,0 +1,35 @@
+html,
+body,
+header,
+#intro{
+    height: 100%;
+    overflow-x: hidden;
+}
+
+#intro{
+    background:url("https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/YXVXTOQIPJGHXKL7TYXMQXEGAQ.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.clockStyle{
+    text-align: center;
+	width: 100%;
+    display: inline-block;
+    color: black;
+	font-size: 40px;
+	margin: 20px 0;
+	line-height: 120px;
+    top: 300px;
+}
+.full-bg-img{
+    text-align: center;
+	width: 100%;
+    display: inline-block;
+	font-size: 50px;
+	margin-top: 90px;
+	line-height: 50px;
+
+}
+}
